@@ -1,3 +1,7 @@
+### notes-sparkDataAnalysis is come from https://github.com/XuefengHuang/awesome-ML-book-chinese
+
+###  其他内容来自 https://github.com/databricks/learning-spark
+
 [![buildstatus](https://travis-ci.org/holdenk/learning-spark-examples.svg?branch=master)](https://travis-ci.org/holdenk/learning-spark-examples)
 Examples for Learning Spark
 ===============

@@ -1,0 +1,2 @@
+('file:/Users/cool/OneDrive/002_projects/learning-spark/notes-sparkDataAnalysis/MyBlog/input.txt', 'INFO This is a info log 1\nINFO Log 2\n\nERROR OMG,This is an e')
+('file:/Users/cool/OneDrive/002_projects/learning-spark/notes-sparkDataAnalysis/MyBlog/quickstart.txt', 'Quick Start\nInt')
